@@ -1,5 +1,7 @@
 
-
+#themecolors .selector{
+  cursor: pointer;
+}
 
 .fast{
     -webkit-animation-duration: 0.3s;
